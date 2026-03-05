@@ -29,6 +29,6 @@
 // console.log(nextName.trim());
 
 const Name2= "Kavyansh-Saini"
-console.log(Name2.replace("-", "<>"));
+console.log(Name2.replace("-", "<>"));  
 console.log(Name2.includes("Saini"));
 console.log(Name2.split("-"));
